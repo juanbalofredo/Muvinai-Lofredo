@@ -5,7 +5,7 @@ Front end assessment
 
 
 Prueba tecnica front end para empresa Muvinai, centrada en diseño y prolijidad de codigo.
-AL estar hecho sin CRUD se pierden bastantes funcionalidades por lo que algunos datos, estadisticas y funciones de botones son representativos.
+Al estar hecho sin CRUD se pierden bastantes funcionalidades por lo que algunos datos, estadisticas y funciones de botones son representativos.
 
 ## Funcionalidades
 
