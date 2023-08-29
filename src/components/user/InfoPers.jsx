@@ -17,7 +17,7 @@ const InfoPers = ({ user }) => {
       display="flex"
       flexDirection="column"
       width="26vw"
-      height="35vh"
+      height="39vh"
       justifyContent="center"
       mt="2vh"
     >
@@ -26,14 +26,14 @@ const InfoPers = ({ user }) => {
         mr="1vw"
         sx={{
           "& .MuiBox-root": {
-            maxHeight: "3vh",
+            maxHeight: "3.3vh",
             display: "flex",
             alignItems: "center",
             justifyContent: "space-between",
             overflow: "hidden",
             backgroundColor: "#243144",
             paddingRight: "40px",
-            height: "3vh",
+            height: "3.3vh",
             color: "#cccaca",
             "& .MuiTypography-root": {
               display: "flex",

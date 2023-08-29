@@ -56,7 +56,7 @@ const Avatar = (props) => {
           component="img"
           borderRadius="5px"
           sx={{
-            height: "23vh",
+            height: "22vh",
             width: "10vw",
             boxShadow: "0px 7px 9px rgba(0, 0, 0, 0.3)",
             zIndex: 0,

@@ -160,7 +160,7 @@ const EditarInfo = ({ props }) => {
               id="filled-hidden-label-small"
               variant="filled"
               size="small"
-              sx={{ width: "18vw" }}
+              width= "18vw"
               name="mail"
               type="mail"
               defaultValue={props.user.email}
@@ -175,7 +175,7 @@ const EditarInfo = ({ props }) => {
               id="filled-hidden-label-small"
               variant="filled"
               size="small"
-              sx={{ width: "18vw" }}
+              width= "18vw"
               name="born"
               defaultValue={props.user.born}
             />
