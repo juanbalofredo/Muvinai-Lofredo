@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&display=swap');
+
+
+html,
+body,
+#root,
+.app,
+.content {
+  text-decoration: none;
+  height: 100%;
+  width: 100%;
+  font-family: "Oxygen", sans-serif;
+}
+.app {
+  display: flex;
+  position: relative;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  
+}
+
+::-webkit-scrollbar-track {
+  background: #d8d8d8;
+
+}
+
+::-webkit-scrollbar-track:hover {
+  background: #555;
+}
