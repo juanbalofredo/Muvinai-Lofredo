@@ -31,5 +31,6 @@ Descargar carpeta y parado en la carpeta contenedora ejecutar :
 Juan Bautista Lofredo
 
 ![Alt text](https://res.cloudinary.com/dzuasgy3l/image/upload/v1693345469/vbbu8owsxvcl0s1elgh0.png)
+![Alt text](https://res.cloudinary.com/dzuasgy3l/image/upload/v1693345792/awf5qccsp6ksntbk7bbj.png)
 
 
